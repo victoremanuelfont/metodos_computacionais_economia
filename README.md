@@ -2,19 +2,16 @@
 
 **Instituição:** UNIVERSIDADE FEDERAL DO CEARÁ - CAMPUS SOBRAL  
 **Curso:** ENGENHARIA DE COMPUTAÇÃO  
-**Disciplina:** TÓPICOS ESPECIAIS EM COMPUTAÇÃO I (2026.1) - CIÊNCIA DE DADOS 
-**Professor:** PROF. IÁLIS CAVALCANTE DE PAULA JUNIOR  
+**Disciplina:** MÉTODOS COMPUTACIONAIS APLICADOS (2026.1) 
+**Professor:** PROF. FERNANDO DANIEL DE OLIVEIRA MAYORGA
 
 ---
 
 ## 👥 Equipe
-* ARTHUR VIEIRA DE LACERDA FIALHO
-* ALISSON DOS SANTOS NASCIMENTO
-* EDUARDO SANTOS DE CASTRO
-* JONATHAN FERNANDES DA COSTA
-* VICTOR EMANUEL FONTENELE LIMA
-* MARINA PAULA FONTENELE
-* RYAN GOMES MAGALHAES LIMA
+* VICTOR EMANUEL FONTENELE LIMA - 509539
+* MARINA PAULA FONTENELE - 539022
+* NICOLE SOUZA BATISTA - 541022
+* PEDRO HENRIQUE MORAIS DA SILVA - 521461
 
 ---
 
@@ -96,7 +93,7 @@ Certifique-se de ter o **Python 3.12** ou superior instalado em sua máquina.
 No seu terminal, execute os comandos abaixo para clonar o projeto e criar um ambiente virtual dedicado:
 
 #### Clone o repositório da equipe:
-git clone https://github.com/ArthurVieiradeLacerdaDev/Topicos-Projeto-Final
+git clone https://github.com/victoremanuelfont/metodos_computacionais_economia/
 <br>cd Topicos-Projeto-Final
 
 #### Crie um ambiente virtual (venv):
