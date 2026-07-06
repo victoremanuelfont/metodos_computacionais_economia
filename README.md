@@ -90,11 +90,6 @@ Siga o passo a passo abaixo para instalar as dependências, executar o pipeline 
 Certifique-se de ter o **Python 3.12** ou superior instalado em sua máquina.
 
 ### 2. Clonar o Repositório e Configurar o Ambiente
-No seu terminal, execute os comandos abaixo para clonar o projeto e criar um ambiente virtual dedicado:
-
-#### Clone o repositório da equipe:
-git clone https://github.com/victoremanuelfont/metodos_computacionais_economia/
-<br>cd Topicos-Projeto-Final
 
 #### Crie um ambiente virtual (venv):
 python -m venv venv
