@@ -1,0 +1,15 @@
+# Ambientes Virtuais
+venv/
+env/
+.env
+
+# Dados 
+data/raw/
+data/processed/
+
+# MLflow
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
